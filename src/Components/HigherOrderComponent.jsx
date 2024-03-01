@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '../HigherOrderComponents.css'
+import './HigherOrderComponents.css'
 
 export class HigherOrderComponent extends Component {
     constructor(props) {

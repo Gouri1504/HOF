@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HigherOrderComponent from './Components/HigherOrderComponent';
+import HigherOrderComponent from './Components/HigherOrderComponent.jsx';
 
 function App() {
   return (
